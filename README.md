@@ -4,7 +4,8 @@
 - 👀 Interested in exploring various aspects of data analysis
 
 ## Skills💫
-- Python
+- Programmer
+- Web Developer
 - SQL
 - Data Visualization (Tableau, matplotlib)
 - Statistical Analysis
