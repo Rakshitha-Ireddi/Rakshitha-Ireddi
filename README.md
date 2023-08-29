@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakshitha-Ireddi
 - 🎓 Pursuing 3rd-year B.Tech in VIT-AP University
 - 📚 Majoring in [Data Analytics]
-- 👀 Interested in exploring various aspects of data analysis
+- 👀 Interested in exploring various aspects of Data Science
 
 ## Skills💫
 - Programmer
